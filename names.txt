@@ -10,3 +10,34 @@ git log = show history of project
 rm -rf filename = delete file
 git reset hashkey = remove history of commits above mentioned hashkey in git log
 git restore filename = restore deleted file
+
+git stash = neither commit nor loose, send backwards for future purposes (perform after git add .)
+
+after (git add .) = either commit or stash
+
+git stash pop = files come on stage area from backwards
+
+git stash clear = remove from backstage (perform after git stash)
+
+git remote add origin https://github.com/Vandana029/Vandana029.git (to add project from github to local machine)
+
+git remote -v = show all repository attached to folder
+
+git push origin master = push the files in repository in github
+
+or create a new repository on the command line
+echo "# Vandana029" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vandana029/Vandana029.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Vandana029/Vandana029.git
+git branch -M main
+git push -u origin main 
+
+
+ 
