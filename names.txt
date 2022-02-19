@@ -1,0 +1,12 @@
+ls -a = list hidden files
+touch file_name.extension = create file 
+git add . = add all untraced file to stage area
+git add file_name = add mentioned file to stage area
+vi file_name = enter the file
+cat file_name = to show the content of the file
+git commit -m "msg" = commit with given message 
+git restore --staged file_name = remove files from stage area
+git log = show history of project
+rm -rf filename = delete file
+git reset hashkey = remove history of commits above mentioned hashkey in git log
+git restore filename = restore deleted file
