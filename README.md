@@ -4,8 +4,8 @@
 - 🔭 Currently working on:<br>
   - Federated learning (MTech Project)<br>
 - 🌱 Currently learning:<br>
-  - 📊 Data Science (MTech Course, 3rd Sem)<br>
-  - 📈 Time Series Analysis and forecasting (MTech Course, 3rd Sem)<br>
+  - 📊 Data Science (MTech Course)<br>
+  - 📈 Time Series Analysis and forecasting <br>
 - 👯 Looking to collaborate on Federated Learning, AI/ML, Robotics, Embedded Systems.<br>
 - 💬 Ask me about Data Science, ML and CS topics 🖥️<br>
 - 📫 How to reach me: vandanavinod@iisc.ac.in<br>
